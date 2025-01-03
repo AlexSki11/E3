@@ -1,4 +1,5 @@
 //Задание 2
+console.log('Задание 2')
 function task2 (number) {
 	/*
 	if (number > 1000){
